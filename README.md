@@ -44,9 +44,9 @@ Node Typescript Boilerplate
 
 ## Testing
 
-### Vitest
+### Jest
 
-For lower level tests of utilities and individual components, we use `vitest`. We have DOM-specific assertion helpers via [`@testing-library/jest-dom`](https://testing-library.com/jest-dom).
+For lower level tests of utilities and individual components, we use `jest` and `supertest`. See https://jestjs.io/ and https://github.com/ladjs/supertest#readme for documentation. To run tests `npm run test` or `npm run test: watch` to run in watch mode.
 
 ### Type Checking
 
