@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-starter",
+  "version": "1.0.0",
+  "description": "Node Typescript Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Jones-RFD/node-typescript-starter.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "Node",
+    "Typescript"
+  ],
+  "author": "Chris Herndon",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/B-Jones-RFD/node-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/B-Jones-RFD/node-typescript-starter#readme"
+}
