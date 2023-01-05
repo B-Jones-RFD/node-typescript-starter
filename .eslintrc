@@ -1,0 +1,5 @@
+{
+  "root": true,
+  "extends": ["prettier"],
+  "ignorePatterns": ["/node_modules", "/build"]
+}

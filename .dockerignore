@@ -1,0 +1,10 @@
+node_modules
+*.log
+*.tar
+.DS_Store
+.env
+/.cache
+/public
+/build
+/test
+/mocks

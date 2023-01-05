@@ -58,8 +58,11 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+/.env
 .env.test
 
 # bundler cache
 .cache
+
+# code editor support
+.vscode/
